@@ -2,7 +2,7 @@ import oracledb
 
 # Credenciales de la base de datos
 user = "system"
-pswd = "Inacap2024"
+pswd = "Divito17.8"
 dsn = "localhost/xe"
 
 # Función para realizar consultas a la base de datos
